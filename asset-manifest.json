@@ -1,12 +1,16 @@
 {
-  "main.css": "static/css/main.af9b314e.css",
-  "main.css.map": "static/css/main.af9b314e.css.map",
-  "main.js": "static/js/main.76007689.js",
-  "main.js.map": "static/js/main.76007689.js.map",
+  "main.css": "static/css/main.6945590c.css",
+  "main.css.map": "static/css/main.6945590c.css.map",
+  "main.js": "static/js/main.d320e45d.js",
+  "main.js.map": "static/js/main.d320e45d.js.map",
   "static/media/flags.png": "static/media/flags.9c74e172.png",
   "static/media/icons.eot": "static/media/icons.263bfe56.eot",
   "static/media/icons.svg": "static/media/icons.b42b4467.svg",
   "static/media/icons.ttf": "static/media/icons.d3490a32.ttf",
   "static/media/icons.woff": "static/media/icons.7bc63d50.woff",
-  "static/media/icons.woff2": "static/media/icons.27c88389.woff2"
+  "static/media/icons.woff2": "static/media/icons.27c88389.woff2",
+  "static/media/map-icons.eot": "static/media/map-icons.82829841.eot",
+  "static/media/map-icons.svg": "static/media/map-icons.c1f9e492.svg",
+  "static/media/map-icons.ttf": "static/media/map-icons.6867e037.ttf",
+  "static/media/map-icons.woff": "static/media/map-icons.d660ef03.woff"
 }
